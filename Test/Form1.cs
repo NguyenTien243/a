@@ -19,7 +19,7 @@ namespace Test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hi tao la ai");
+            MessageBox.Show("Hi");
         }
     }
 }
