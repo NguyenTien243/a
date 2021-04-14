@@ -29,7 +29,9 @@ namespace Test
 
 
             MessageBox.Show("Phương đây");
-
+            
+            
+            MessageBox.Show("Tiến đây");
         }
     }
 }
