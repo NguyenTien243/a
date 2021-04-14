@@ -25,7 +25,7 @@ namespace Test
 
 
 
-            MessageBox.Show("Hi2222");
+            MessageBox.Show("Phương đây");
         }
     }
 }
