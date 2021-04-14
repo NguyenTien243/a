@@ -32,6 +32,9 @@ namespace Test
             
             
             MessageBox.Show("Tiến đây");
+            
+            
+            MessageBox.Show("Tiến har");
         }
     }
 }
