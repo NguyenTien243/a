@@ -19,7 +19,17 @@ namespace Test
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             MessageBox.Show("Hi2");
+
+
+            MessageBox.Show("Hi11");
+
+
+
+
+            MessageBox.Show("Phương đây");
+
         }
     }
 }
